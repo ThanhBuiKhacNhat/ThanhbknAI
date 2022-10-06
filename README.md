@@ -28,6 +28,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=A8B9CC" alt="Adobe logo" title="WordPress" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Power BI-282C34?logo=PowerBI&logoColor=F2C811" alt="Adobe logo" title="WordPress" height="25" /></span>
+&nbsp;
 <div align=center>
   <a href="#" title="Trungquandev">
     
